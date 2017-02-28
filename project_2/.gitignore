@@ -1,5 +1,7 @@
 *.tar.gz
 *.p
 
+image_classification.*
+
 cifar-10-batches-py/
 __pycache__/
